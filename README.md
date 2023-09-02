@@ -1,4 +1,6 @@
 # Project REST-Rant
+## User Story
+### As a restaurant customer, we need an app that customers can use to leave a quick review/comment on a particular restaurant before trying it.
 
 REST-Rant is an app where users can review restaurants.
 
@@ -15,3 +17,5 @@ REST-Rant is an app where users can review restaurants.
 | POST        | /places/:id/rant |Create a rant (comment) about a particular place|
 | DELETE      | /places/:id/rant/:rantId | Delete a rant (comment) about a particular place |
 | GET         | *                | 404 page (matches any route not defined above)|
+
+Data that will be stored for restaurants: restaurant name, city, state, cuisines, and a pic
