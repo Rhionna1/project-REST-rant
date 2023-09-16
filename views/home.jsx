@@ -7,7 +7,7 @@ function home () {
             <main>
                 <h1>HOME</h1>
                 <div>
-                  <img src="/images/tablesetting.jpg" alt="Table Settings" />
+                  <img src="/images/tablesetting.jpg" alt="Table Settings" width="500" height="400" />
                   <div>
                     Photo By: <a href="https://unsplash.com/@sewellkare12">Karen Sewell</a> on <a href="https://unsplash.com/photos/yLfsEMVbOWA">Unsplash</a>
                   </div>
